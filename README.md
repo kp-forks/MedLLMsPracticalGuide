@@ -529,6 +529,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 <!-- * Holistic Evaluation of GPT-4V for Biomedical Imaging. 2023. [paper](https://arxiv.org/pdf/2312.05256v1.pdf) -->
 
 ### Medical Agents
+* [**Arxiv, 2025**] A Co-evolving Agentic AI System for Medical Imaging Analysis [Paper](https://arxiv.org/abs/2509.20279) [Code](https://github.com/zhihuanglab/TissueLab)
 * [**Arxiv, 2024**] MedAgentBench: A Realistic Virtual EHR Environment to Benchmark Medical LLM Agents [paper](https://arxiv.org/abs/2501.14654) [code](https://github.com/stanfordmlgroup/MedAgentBench)
 * [**Arxiv, 2023**] The Rise and Potential of Large Language Model Based Agents: A Survey. [paper](https://arxiv.org/pdf/2309.07864)
 * [**Arxiv, 2023**] MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning. [paper](https://arxiv.org/abs/2311.10537) [code](https://github.com/gersteinlab/MedAgents)
